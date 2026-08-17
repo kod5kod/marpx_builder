@@ -1,0 +1,14 @@
+/* @theme custom */
+/*
+ * Custom Marp Theme Overrides
+ */
+
+:root {
+  /* You can override MarpX CSS variables here */
+  /* --primary: #007bff; */
+}
+
+.custom-highlight {
+  background-color: yellow;
+  font-weight: bold;
+}

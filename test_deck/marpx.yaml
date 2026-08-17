@@ -1,0 +1,4 @@
+# Default configuration for marpx-builder
+theme: einstein
+context:
+  subtitle: "Built with Python"
